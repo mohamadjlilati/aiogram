@@ -5,8 +5,8 @@ from aiogram.types.message import ContentTypes
 from aiogram.utils import executor
 
 
-BOT_TOKEN = 'BOT_TOKEN_HERE'
-PAYMENTS_PROVIDER_TOKEN = '123456789:TEST:1422'
+BOT_TOKEN = '1520911603:AAG31gDKBG30n29k7sQx5N4Tq_oH4f3M8Qw'
+PAYMENTS_PROVIDER_TOKEN = '350862534:LIVE:NThjNTA2MThhMWI4'
 
 bot = Bot(BOT_TOKEN)
 dp = Dispatcher(bot)
