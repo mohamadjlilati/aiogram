@@ -1,1 +1,1 @@
-worker: python examples/payments.py
+worker: python main.py
